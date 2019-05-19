@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Bogdan Costea
+title: About me
 permalink: /about/
 ---
 I'm passionate about building products, optimizing processes and creating value. I like pushing software craftsmanship, agile and lean methods on high stakes, small team, fixed deadline projects.
